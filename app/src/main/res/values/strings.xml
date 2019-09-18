@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GiphyApp</string>
+    <string name="favourit">Add To Favourites</string>
+    <string name="favourit_title">Favourites Gifs</string>
+</resources>
